@@ -1,0 +1,4 @@
+{
+    "ignore_dirs":[".git","node_modules"],
+    "root_files":["index.js"]
+}
